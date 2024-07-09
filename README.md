@@ -9,6 +9,7 @@ WordPress Portfolio website for UI/UX Designer
 - Create a database named `uxrizwan`
 - After WordPress installation, install the plugin [`UpdraftPlus - Backup/Restore`](https://wordpress.org/plugins/updraftplus/)
 - Import all zip files and restore backup.
+- User name and password both are `admin`
 
 ## Home page
 
